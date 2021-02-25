@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **A2RJ/A2RJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xcz.ardiansyahputra2468@gmail.com or a2rj@outlook.co.id
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
