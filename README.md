@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-**A2RJ/A2RJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ardiansyah Putra
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SIKANGMAS and Projectin.tech
+- 🔭 I’m currently working on Sumbawa University of Technology
 - 🌱 I’m currently learning about PHP and Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate
 - 💬 Ask me about ...
-- 📫 How to reach me: xcz.ardiansyahputra2468@gmail.com or a2rj@outlook.co.id
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me: ardiansyah.putra@uts.ac.id
+- ⚡ Fun fact: play video games and like to try new technology
